@@ -1,2 +1,4 @@
 # python_test
-my first repo in python here. Just to test Git+GitHub
+My first repo in python here. Just to test Git+GitHub.
+
+Here I made some changes.
